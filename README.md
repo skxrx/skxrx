@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi I'm Semyon 👨‍💻
 
-<!--
-**skxrx/skxrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a 4rd year student of ITMO university 
 
-Here are some ideas to get you started:
+🤑 I've my own lucrative web-scraping project.
+🤖 In it I worked with [Puppeteer](https://pptr.dev/) (several tabs, if necessary), [Axios](https://github.com/axios/axios), [Axios](https://github.com/axios/axios) + [WebSocket](https://www.websocket.org/echo.html) and [request-promise](https://github.com/request/request-promise-native).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I just launched my first own project
+🌱 I’m currently learning ReactJS and Vue, also I've a ot of experiance with Node.js 
+👯 I’m looking to work with ambitious and interesting people
+🥅 2020 Goals: _done_
+⚡ Fun fact: I love to play tennis and chating with my frinds via Telegram: [@Godlyrlm](https://t.me/Godlyrlm)
+
+### Connect with me via telegram:
+
+[My Telegram](https://t.me/Godlyrlm)
+
+<br />
+
+### Languages and Tools:
+
+Visual Studio CodeWebStormHTML5CSS3SassJavaScriptReactJSVue.jsGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
