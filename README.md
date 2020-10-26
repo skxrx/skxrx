@@ -19,5 +19,4 @@
 
 ### Languages and Tools:
 
-Visual Studio CodeWebStormHTML5CSS3SassJavaScriptReactJSVue.jsGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
 
